@@ -4,6 +4,8 @@ version = "1.0.0"
 edition = "2024"
 repository = "https://github.com/Junaid433/FTV"
 homepage = "https://github.com/Junaid433/FTV"
+description = "Convert anything to video and revert to normal!"
+license = "MIT"
 
 [dependencies]
 clap = { version = "4", features = ["derive"] }
