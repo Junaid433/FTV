@@ -1,4 +1,6 @@
-# FileToVideo (FTV) ![Crates.io](https://img.shields.io/crates/v/ftv) ![Build](https://github.com/Junaid433/ftv/actions/workflows/rust.yml/badge.svg)
+# FileToVideo (FTV) 
+![Crates.io](https://img.shields.io/crates/v/ftv)
+![Build](https://github.com/Junaid433/ftv/actions/workflows/rust.yml/badge.svg)
 
 Convert any file to a video and back!
 
